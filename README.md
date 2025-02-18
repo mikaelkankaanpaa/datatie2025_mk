@@ -1,2 +1,3 @@
-# joda2024
-Public materials for Johdanto datatieteeseen 2024
+# datatie2025
+
+Public materials for Datatiede tietojohtamisessa 2024
