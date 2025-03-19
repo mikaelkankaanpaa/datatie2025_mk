@@ -1,0 +1,71 @@
+Rank,Player,Team,Penalties Won,Fouls Won per 90,Minutes,Matches,Country
+1,Anthony Gordon,Newcastle United,6.0,2.1,2898,35,ENG
+2,Raheem Sterling,Chelsea,3.0,1.9,1981,31,ENG
+3,Fabio Vieira,Arsenal,2.0,3.1,292,11,POR
+4,Joao Pedro,Brighton and Hove Albion,2.0,2.6,2043,31,BRA
+5,Chiedozie Ogbene,Luton Town,2.0,2.3,1993,30,IRL
+5,Edward Nketiah,Arsenal,2.0,2.3,1073,27,ENG
+7,Alejandro Garnacho,Manchester United,2.0,1.9,2573,36,ARG
+7,Jérémy Doku,Manchester City,2.0,1.9,1593,29,BEL
+9,Diogo Jota,Liverpool,2.0,1.6,1150,21,POR
+9,Noni Madueke,Chelsea,2.0,1.6,1053,23,ENG
+11,Mykhaylo Mudryk,Chelsea,2.0,1.5,1578,31,UKR
+12,Dominik Szoboszlai,Liverpool,2.0,1.2,2109,33,HUN
+13,Danny Welbeck,Brighton and Hove Albion,2.0,1.1,1703,29,ENG
+13,Erling Haaland,Manchester City,2.0,1.1,2556,31,NOR
+13,Ollie Watkins,Aston Villa,2.0,1.1,3221,37,ENG
+16,Emerson,West Ham United,2.0,0.9,3142,36,ITA
+16,Jean-Philippe Mateta,Crystal Palace,2.0,0.9,2283,35,FRA
+18,Fabian Schär,Newcastle United,2.0,0.8,3054,36,SUI
+19,Julián Álvarez,Manchester City,2.0,0.4,2657,36,ARG
+20,Mohammed Kudus,West Ham United,1.0,2.7,2483,33,GHA
+21,Antony,Manchester United,1.0,2.2,1323,29,BRA
+21,Harry Wilson,Fulham,1.0,2.2,1614,35,WAL
+23,Bukayo Saka,Arsenal,1.0,2.1,2933,35,ENG
+23,Eberechi Eze,Crystal Palace,1.0,2.1,2065,27,ENG
+25,Rayan Ait Nouri,Wolverhampton Wanderers,1.0,2.0,2344,33,ALG
+26,Armando Broja,Chelsea,1.0,1.9,535,21,ALB
+26,Ezri Konsa,Aston Villa,1.0,1.9,3073,35,ENG
+26,Gabriel Jesus,Arsenal,1.0,1.9,1482,27,BRA
+26,Oliver McBurnie,Sheffield United,1.0,1.9,1283,21,SCO
+30,Marc Cucurella,Chelsea,1.0,1.8,1784,21,ESP
+30,Matheus Cunha,Wolverhampton Wanderers,1.0,1.8,2453,32,BRA
+30,Yoane Wissa,Brentford,1.0,1.8,2508,34,COD
+30,Zeki Amdouni,Burnley,1.0,1.8,1971,34,SUI
+34,Ben Davies,Tottenham Hotspur,1.0,1.6,1085,17,WAL
+34,Evan Ferguson,Brighton and Hove Albion,1.0,1.6,1365,27,IRL
+34,Jhon Duran,Aston Villa,1.0,1.6,462,23,COL
+37,Ben Brereton Diaz,Sheffield United,1.0,1.5,1110,14,CHI
+37,Callum Hudson-Odoi,Nottingham Forest,1.0,1.5,1854,29,ENG
+37,Kai Havertz,Arsenal,1.0,1.5,2639,37,GER
+40,Danny Ings,West Ham United,1.0,1.4,390,20,ENG
+40,Hee-Chan Hwang,Wolverhampton Wanderers,1.0,1.4,2124,29,KOR
+40,Luis Diaz,Liverpool,1.0,1.4,2646,37,COL
+40,Tom Cairney,Fulham,1.0,1.4,1475,34,SCO
+44,Enzo Fernández,Chelsea,1.0,1.3,2214,28,ARG
+44,George Baldock,Sheffield United,1.0,1.3,970,13,GRE
+46,Anthony Martial,Manchester United,1.0,1.2,445,13,FRA
+46,Dominic Solanke,Bournemouth,1.0,1.2,3331,38,ENG
+46,Heung-Min Son,Tottenham Hotspur,1.0,1.2,2946,35,KOR
+46,Luca Koleosho,Burnley,1.0,1.2,984,15,USA
+46,Pedro Neto,Wolverhampton Wanderers,1.0,1.2,1518,20,POR
+51,Leandro Trossard,Arsenal,1.0,1.1,1646,34,BEL
+51,Rodri,Manchester City,1.0,1.1,2938,34,ESP
+51,Vitinho,Burnley,1.0,1.1,2316,32,BRA
+54,Antoine Semenyo,Bournemouth,1.0,1.0,2111,33,GHA
+54,Martin Ødegaard,Arsenal,1.0,1.0,3098,35,NOR
+54,Milos Kerkez,Bournemouth,1.0,1.0,1975,28,HUN
+57,Ashley Young,Everton,1.0,0.9,2288,31,ENG
+57,Cole Palmer,Chelsea,1.0,0.9,2624,34,ENG
+57,Harvey Elliott,Liverpool,1.0,0.9,1336,34,ENG
+57,Josko Gvardiol,Manchester City,1.0,0.9,2328,28,CRO
+57,Mohamed Salah,Liverpool,1.0,0.9,2535,32,EGY
+62,Marcus Rashford,Manchester United,1.0,0.8,2278,33,ENG
+62,Matheus Franca,Crystal Palace,1.0,0.8,225,10,BRA
+62,Mathias Jensen,Brentford,1.0,0.8,2217,32,DEN
+62,Simon Adingra,Brighton and Hove Albion,1.0,0.8,2230,31,CIV
+62,Vitaly Janelt,Brentford,1.0,0.8,3069,38,GER
+67,Darwin Nunez,Liverpool,1.0,0.7,2046,36,URU
+68,Alexander Isak,Newcastle United,1.0,0.6,2265,30,SWE
+69,Harry Maguire,Manchester United,1.0,0.5,1650,22,ENG
+69,Jarrad Branthwaite,Everton,1.0,0.5,3117,35,ENG

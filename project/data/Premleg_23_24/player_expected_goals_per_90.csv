@@ -1,0 +1,299 @@
+Rank,Player,Team,Expected Goals per 90,Goals per 90,Minutes,Matches,Country
+1,Erling Haaland,Manchester City,1.03,0.95,2556,31,NOR
+2,Alexander Isak,Newcastle United,0.81,0.83,2265,30,SWE
+3,Callum Wilson,Newcastle United,0.81,0.82,985,20,ENG
+4,Mohamed Salah,Liverpool,0.75,0.64,2535,32,EGY
+5,Darwin Nunez,Liverpool,0.72,0.48,2046,36,URU
+6,Beto,Everton,0.65,0.29,939,30,POR
+7,Cole Palmer,Chelsea,0.62,0.75,2624,34,ENG
+8,Nicolas Jackson,Chelsea,0.6,0.45,2804,35,SEN
+9,Ansu Fati,Brighton and Hove Albion,0.6,0.35,513,19,ESP
+10,Chris Wood,Nottingham Forest,0.59,0.7,1806,31,NZL
+11,Richarlison,Tottenham Hotspur,0.58,0.66,1492,28,BRA
+12,Dominic Solanke,Bournemouth,0.53,0.51,3331,38,ENG
+13,Joao Pedro,Brighton and Hove Albion,0.53,0.4,2043,31,BRA
+14,Dominic Calvert-Lewin,Everton,0.53,0.29,2185,32,ENG
+15,Rodrigo Muniz,Fulham,0.49,0.51,1597,26,BRA
+16,Cody Gakpo,Liverpool,0.49,0.44,1644,35,NED
+17,Bukayo Saka,Arsenal,0.48,0.49,2933,35,ENG
+18,Oliver McBurnie,Sheffield United,0.48,0.42,1283,21,SCO
+19,Ollie Watkins,Aston Villa,0.47,0.53,3221,37,ENG
+20,Neal Maupay,Brentford,0.46,0.38,1424,31,FRA
+21,Bryan Mbeumo,Brentford,0.45,0.41,1959,25,CMR
+22,Julián Álvarez,Manchester City,0.44,0.37,2657,36,ARG
+23,Leandro Trossard,Arsenal,0.43,0.66,1646,34,BEL
+24,Elijah Adebayo,Luton Town,0.43,0.63,1418,27,ENG
+24,Jean-Philippe Mateta,Crystal Palace,0.43,0.63,2283,35,FRA
+26,Diogo Jota,Liverpool,0.42,0.78,1150,21,POR
+27,Kai Havertz,Arsenal,0.42,0.44,2639,37,GER
+28,Harvey Barnes,Newcastle United,0.41,0.57,794,21,ENG
+29,Taiwo Awoniyi,Nottingham Forest,0.41,0.52,1046,20,NGA
+30,Brennan Johnson,Tottenham Hotspur,0.41,0.19,2330,35,WAL
+31,Jhon Duran,Aston Villa,0.4,0.97,462,23,COL
+32,Eberechi Eze,Crystal Palace,0.4,0.48,2065,27,ENG
+33,Luis Diaz,Liverpool,0.4,0.27,2646,37,COL
+34,Keane Lewis-Potter,Brentford,0.4,0.19,1441,30,ENG
+35,Michael Olise,Crystal Palace,0.39,0.7,1277,19,FRA
+36,Gabriel Jesus,Arsenal,0.39,0.24,1482,27,BRA
+37,Jay Rodriguez,Burnley,0.39,0.22,813,21,ENG
+38,Yoane Wissa,Brentford,0.38,0.43,2508,34,COD
+39,Edward Nketiah,Arsenal,0.38,0.42,1073,27,ENG
+40,Heung-Min Son,Tottenham Hotspur,0.37,0.52,2946,35,KOR
+41,Jacob Bruun Larsen,Burnley,0.36,0.43,1248,32,DEN
+42,Odsonne Edouard,Crystal Palace,0.36,0.41,1552,30,FRA
+43,Carlton Morris,Luton Town,0.36,0.35,2867,38,ENG
+44,Jarrod Bowen,West Ham United,0.35,0.48,3020,34,ENG
+45,Matheus Cunha,Wolverhampton Wanderers,0.35,0.44,2453,32,BRA
+46,Pablo Sarabia,Wolverhampton Wanderers,0.35,0.21,1748,30,ESP
+47,Armando Broja,Chelsea,0.35,0.17,535,21,ALB
+48,Hee-Chan Hwang,Wolverhampton Wanderers,0.33,0.51,2124,29,KOR
+49,Raul Jiménez,Fulham,0.33,0.45,1402,24,MEX
+50,Luis Sinisterra,Bournemouth,0.33,0.26,692,20,COL
+51,Phil Foden,Manchester City,0.32,0.6,2865,35,ENG
+52,Rasmus Højlund,Manchester United,0.32,0.41,2169,30,DEN
+53,Anthony Gordon,Newcastle United,0.32,0.34,2898,35,ENG
+54,Gabriel Martinelli,Arsenal,0.31,0.27,2029,35,BRA
+55,Cauley Woodrow,Luton Town,0.31,0.22,409,24,ENG
+56,Divock Origi,Nottingham Forest,0.31,0.0,599,20,BEL
+57,Evan Ferguson,Brighton and Hove Albion,0.3,0.4,1365,27,IRL
+58,Michail Antonio,West Ham United,0.3,0.32,1710,26,JAM
+59,Abdoulaye Doucouré,Everton,0.3,0.24,2637,32,MLI
+59,Alejandro Garnacho,Manchester United,0.3,0.24,2573,36,ARG
+61,Danny Ings,West Ham United,0.3,0.23,390,20,ENG
+62,Bobby Reid,Fulham,0.29,0.38,1424,33,JAM
+63,Raheem Sterling,Chelsea,0.29,0.36,1981,31,ENG
+64,Justin Kluivert,Bournemouth,0.29,0.33,1934,32,NED
+65,Bruno Fernandes,Manchester United,0.29,0.29,3119,35,POR
+66,Marcus Rashford,Manchester United,0.29,0.28,2278,33,ENG
+67,Moussa Diaby,Aston Villa,0.29,0.25,2184,38,FRA
+68,Danny Welbeck,Brighton and Hove Albion,0.28,0.26,1703,29,ENG
+69,Nicolo Zaniolo,Aston Villa,0.28,0.22,830,25,ITA
+70,Leon Bailey,Aston Villa,0.27,0.43,2072,35,JAM
+71,Scott McTominay,Manchester United,0.27,0.33,1891,32,SCO
+72,Zeki Amdouni,Burnley,0.27,0.23,1971,34,SUI
+73,Cameron Archer,Sheffield United,0.27,0.2,1839,30,ENG
+74,James Maddison,Tottenham Hotspur,0.27,0.17,2152,28,ENG
+75,Mykhaylo Mudryk,Chelsea,0.25,0.29,1578,31,UKR
+76,Jacob Brown,Luton Town,0.25,0.18,1020,19,SCO
+77,Enzo Fernández,Chelsea,0.25,0.12,2214,28,ARG
+78,Anthony Elanga,Nottingham Forest,0.24,0.18,2434,36,SWE
+79,Willian,Fulham,0.23,0.18,2054,31,BRA
+80,Antony,Manchester United,0.23,0.07,1323,29,BRA
+81,Martin Ødegaard,Arsenal,0.22,0.23,3098,35,NOR
+82,Tomas Soucek,West Ham United,0.22,0.22,2874,37,CZE
+83,Sean Longstaff,Newcastle United,0.22,0.2,2746,35,ENG
+84,Alex Iwobi,Fulham,0.22,0.19,2342,32,NGA
+85,Joelinton,Newcastle United,0.22,0.14,1282,20,BRA
+86,Noni Madueke,Chelsea,0.21,0.43,1053,23,ENG
+87,Douglas Luiz,Aston Villa,0.21,0.27,3001,35,BRA
+88,Lyle Foster,Burnley,0.21,0.24,1906,24,RSA
+89,Kaoru Mitoma,Brighton and Hove Albion,0.21,0.18,1488,19,JPN
+90,Miguel Almiron,Newcastle United,0.21,0.14,1945,33,PAR
+91,Pedro Neto,Wolverhampton Wanderers,0.21,0.12,1518,20,POR
+92,Antoine Semenyo,Bournemouth,0.2,0.34,2111,33,GHA
+93,Morgan Gibbs-White,Nottingham Forest,0.2,0.14,3160,37,ENG
+94,Curtis Jones,Liverpool,0.2,0.08,1167,23,ENG
+95,Dango Ouattara,Bournemouth,0.2,0.07,1220,30,BFA
+96,Mohammed Kudus,West Ham United,0.19,0.29,2483,33,GHA
+97,Jack Grealish,Manchester City,0.19,0.27,1003,20,ENG
+98,Harry Wilson,Fulham,0.19,0.22,1614,35,WAL
+99,James Ward-Prowse,West Ham United,0.19,0.21,3005,37,ENG
+100,Chiedozie Ogbene,Luton Town,0.19,0.18,1993,30,IRL
+101,Pascal Gross,Brighton and Hove Albion,0.19,0.12,3114,36,GER
+102,William Osula,Sheffield United,0.19,0.0,783,21,DEN
+103,Harvey Elliott,Liverpool,0.18,0.2,1336,34,ENG
+104,Lucas Paquetá,West Ham United,0.18,0.14,2634,31,BRA
+105,Matty Cash,Aston Villa,0.18,0.08,2142,29,POL
+106,Simon Adingra,Brighton and Hove Albion,0.17,0.24,2230,31,CIV
+107,Marcus Tavernier,Bournemouth,0.17,0.13,2129,30,ENG
+108,Rodrigo Bentancur,Tottenham Hotspur,0.17,0.09,1007,23,URU
+109,Frank Onyeka,Brentford,0.17,0.08,1155,26,NGA
+110,Jacob Murphy,Newcastle United,0.16,0.23,1193,21,ENG
+111,Facundo Buonanotte,Brighton and Hove Albion,0.16,0.2,1368,27,ARG
+112,Dominik Szoboszlai,Liverpool,0.16,0.13,2109,33,HUN
+112,Philip Billing,Bournemouth,0.16,0.13,1393,29,DEN
+114,Andreas Pereira,Fulham,0.16,0.1,2637,37,BRA
+115,Ryan Gravenberch,Liverpool,0.16,0.08,1121,26,NED
+116,Casemiro,Manchester United,0.16,0.05,1985,25,BRA
+117,Dejan Kulusevski,Tottenham Hotspur,0.15,0.26,2763,36,SWE
+118,Jean-Ricner Bellegarde,Wolverhampton Wanderers,0.15,0.19,958,22,HAI
+119,John McGinn,Aston Villa,0.15,0.18,3009,35,SCO
+120,James McAtee,Sheffield United,0.15,0.15,1828,31,ENG
+121,Pape Sarr,Tottenham Hotspur,0.15,0.13,2085,34,SEN
+122,Jérémy Doku,Manchester City,0.14,0.17,1593,29,BEL
+122,Ross Barkley,Luton Town,0.14,0.17,2622,32,ENG
+124,Jordan Ayew,Crystal Palace,0.14,0.14,2549,35,GHA
+125,Jack Harrison,Everton,0.14,0.12,2219,29,ENG
+125,Mario Lemina,Wolverhampton Wanderers,0.14,0.12,2974,35,GAB
+127,Johann Berg Gudmundsson,Burnley,0.14,0.08,1191,26,ISL
+128,Ryan Yates,Nottingham Forest,0.14,0.05,1986,35,ENG
+129,Elliot Anderson,Newcastle United,0.14,0.0,1022,21,SCO
+130,Callum Hudson-Odoi,Nottingham Forest,0.13,0.39,1854,29,ENG
+131,Bernardo Silva,Manchester City,0.13,0.21,2581,33,POR
+132,Bruno Guimaraes,Newcastle United,0.13,0.19,3268,37,BRA
+133,Alexis Mac Allister,Liverpool,0.13,0.17,2609,33,ARG
+134,Gabriel,Arsenal,0.13,0.12,3044,36,BRA
+135,Rayan Ait Nouri,Wolverhampton Wanderers,0.13,0.08,2344,33,ALG
+135,Sasa Lukic,Fulham,0.13,0.08,1119,24,SRB
+137,Christian Nørgaard,Brentford,0.13,0.07,2513,31,DEN
+138,Naouirou Ahamada,Crystal Palace,0.13,0.0,333,20,FRA
+138,Yegor Yarmolyuk,Brentford,0.13,0.0,675,27,UKR
+140,Rodri,Manchester City,0.12,0.25,2938,34,ESP
+141,Tahith Chong,Luton Town,0.12,0.18,1986,33,NED
+142,Álex Moreno,Aston Villa,0.12,0.17,1030,21,ESP
+143,Takehiro Tomiyasu,Arsenal,0.12,0.16,1143,22,JPN
+144,Josko Gvardiol,Manchester City,0.12,0.15,2328,28,CRO
+145,Conor Gallagher,Chelsea,0.12,0.14,3135,37,ENG
+146,Jeffrey Schlupp,Crystal Palace,0.12,0.13,1355,29,GHA
+146,Wilson Odobert,Burnley,0.12,0.13,2107,29,FRA
+148,Axel Disasi,Chelsea,0.12,0.07,2581,31,FRA
+149,Diego Carlos,Aston Villa,0.12,0.0,1811,27,BRA
+150,Cristian Romero,Tottenham Hotspur,0.11,0.16,2792,33,ARG
+151,Joao Palhinha,Fulham,0.11,0.13,2709,33,POR
+151,Trent Alexander-Arnold,Liverpool,0.11,0.13,2159,28,ENG
+153,Harry Maguire,Manchester United,0.11,0.11,1650,22,ENG
+154,Dwight McNeil,Everton,0.11,0.09,2897,35,ENG
+154,Nathan Aké,Manchester City,0.11,0.09,2044,29,NED
+156,Anel Ahmedhodzic,Sheffield United,0.11,0.07,2649,31,BIH
+157,Giovani Lo Celso,Tottenham Hotspur,0.1,0.36,495,22,ARG
+158,Andrew Robertson,Liverpool,0.1,0.16,1691,23,SCO
+159,Lewis Dunk,Brighton and Hove Albion,0.1,0.09,2872,33,ENG
+160,Daniel Burn,Newcastle United,0.1,0.07,2732,33,ENG
+161,Harry Toffolo,Nottingham Forest,0.1,0.06,1455,23,ENG
+162,Jefferson Lerma,Crystal Palace,0.1,0.04,2403,28,COL
+163,Matheus Nunes,Manchester City,0.1,0.0,833,19,POR
+163,Mikkel Damsgaard,Brentford,0.1,0.0,835,23,DEN
+163,Oliver Skipp,Tottenham Hotspur,0.1,0.0,694,21,ENG
+166,Declan Rice,Arsenal,0.09,0.2,3230,38,ENG
+167,Gustavo Hamer,Sheffield United,0.09,0.12,2923,36,NED
+167,Willy Boly,Nottingham Forest,0.09,0.12,1443,20,CIV
+169,Danilo,Nottingham Forest,0.09,0.1,1796,29,BRA
+170,Amadou Onana,Everton,0.09,0.09,2090,30,BEL
+170,Pedro Porro,Tottenham Hotspur,0.09,0.09,3092,35,ESP
+172,Destiny Udogie,Tottenham Hotspur,0.09,0.08,2398,28,ITA
+173,Andros Townsend,Luton Town,0.09,0.07,1209,27,ENG
+174,Adam Lallana,Brighton and Hove Albion,0.09,0.0,846,25,ENG
+175,Josh Brownhill,Burnley,0.08,0.16,2251,33,ENG
+175,Marcos Senesi,Bournemouth,0.08,0.16,2247,31,ARG
+177,Fabian Schär,Newcastle United,0.08,0.12,3054,36,SUI
+177,Nicolás Dominguez,Nottingham Forest,0.08,0.12,1503,26,ARG
+179,Jakub Kiwior,Arsenal,0.08,0.1,945,20,POL
+180,Christian Eriksen,Manchester United,0.08,0.08,1139,22,DEN
+181,Raphaël Varane,Manchester United,0.08,0.07,1371,22,FRA
+182,Konstantinos Mavropanos,West Ham United,0.08,0.06,1501,19,GRE
+182,Virgil van Dijk,Liverpool,0.08,0.06,3178,36,NED
+184,Nayef Aguerd,West Ham United,0.08,0.05,1859,21,MAR
+185,James Garner,Everton,0.08,0.03,3005,37,ENG
+186,Pervis Estupinán,Brighton and Hove Albion,0.07,0.14,1244,19,ECU
+187,Youri Tielemans,Aston Villa,0.07,0.11,1620,32,BEL
+188,Jayden Bogle,Sheffield United,0.07,0.1,2792,34,ENG
+189,Matt Doherty,Wolverhampton Wanderers,0.07,0.08,1142,30,IRL
+190,Ethan Pinnock,Brentford,0.07,0.07,2521,29,JAM
+190,Jordan Clark,Luton Town,0.07,0.07,1306,23,ENG
+190,Manuel Akanji,Manchester City,0.07,0.07,2513,30,SUI
+193,Mateo Kovacic,Manchester City,0.07,0.06,1548,30,CRO
+193,Moussa Niakhaté,Nottingham Forest,0.07,0.06,1457,21,SEN
+193,Oliver Norwood,Sheffield United,0.07,0.06,1433,27,NIR
+193,Tom Cairney,Fulham,0.07,0.06,1475,34,SCO
+197,Ezri Konsa,Aston Villa,0.07,0.03,3073,35,ENG
+197,James Tarkowski,Everton,0.07,0.03,3419,38,ENG
+197,Nathan Collins,Brentford,0.07,0.03,2649,32,IRL
+200,Reece Burke,Luton Town,0.07,0.0,1663,22,ENG
+200,Ryan Christie,Bournemouth,0.07,0.0,2918,37,SCO
+202,Idrissa Gana Gueye,Everton,0.06,0.19,1892,25,SEN
+203,Kristoffer Vassbakk Ajer,Brentford,0.06,0.1,1833,28,NOR
+203,Kurt Zouma,West Ham United,0.06,0.1,2838,33,FRA
+205,Alex Scott,Bournemouth,0.06,0.09,1010,23,ENG
+206,Joao Gomes,Wolverhampton Wanderers,0.06,0.07,2658,34,BRA
+206,Vitalii Mykolenko,Everton,0.06,0.07,2471,28,UKR
+208,Levi Colwill,Chelsea,0.06,0.05,1798,23,ENG
+209,Craig Dawson,Wolverhampton Wanderers,0.06,0.04,2211,25,ENG
+210,Sander Berge,Burnley,0.06,0.03,3005,37,NOR
+210,Timothy Castagne,Fulham,0.06,0.03,2633,34,BEL
+212,Carlos Baleba,Brighton and Hove Albion,0.06,0.0,1321,27,CMR
+212,Marc Cucurella,Chelsea,0.06,0.0,1784,21,ESP
+212,Murillo,Nottingham Forest,0.06,0.0,2793,32,BRA
+212,Sergio Reguilon,Brentford,0.06,0.0,1534,25,ESP
+212,Tariq Lamptey,Brighton and Hove Albion,0.06,0.0,912,19,GHA
+212,Vitinho,Burnley,0.06,0.0,2316,32,BRA
+212,Yves Bissouma,Tottenham Hotspur,0.06,0.0,2081,28,MLI
+219,Gabriel Osho,Luton Town,0.05,0.1,1848,21,ENG
+220,Jarrad Branthwaite,Everton,0.05,0.09,3117,35,ENG
+221,Victor Nilsson Lindelöf,Manchester United,0.05,0.07,1332,19,SWE
+222,Diogo Dalot,Manchester United,0.05,0.06,3173,36,POR
+222,Orel Mangala,Nottingham Forest,0.05,0.06,1569,20,BEL
+222,Tyrick Mitchell,Crystal Palace,0.05,0.06,3208,37,ENG
+225,Max Kilman,Wolverhampton Wanderers,0.05,0.05,3420,38,ENG
+226,Edson Álvarez,West Ham United,0.05,0.04,2383,31,MEX
+227,Toti Gomes,Wolverhampton Wanderers,0.05,0.03,2774,35,POR
+227,Vitaly Janelt,Brentford,0.05,0.03,3069,38,GER
+229,Ibrahima Konaté,Liverpool,0.05,0.0,1571,22,FRA
+229,Jan Paul van Hecke,Brighton and Hove Albion,0.05,0.0,2368,28,NED
+229,Malo Gusto,Chelsea,0.05,0.0,1755,27,FRA
+229,Milos Kerkez,Bournemouth,0.05,0.0,1975,28,HUN
+229,Neco Williams,Nottingham Forest,0.05,0.0,1634,26,WAL
+229,Pelly-Ruddock Mpanzu,Luton Town,0.05,0.0,1093,27,COD
+229,Pierre-Emile Højbjerg,Tottenham Hotspur,0.05,0.0,1293,36,DEN
+229,Ruben Dias,Manchester City,0.05,0.0,2557,30,POR
+237,Kobbie Mainoo,Manchester United,0.04,0.14,1939,24,ENG
+238,Micky van de Ven,Tottenham Hotspur,0.04,0.12,2342,27,NED
+238,Saman Ghoddos,Brentford,0.04,0.12,729,19,IRN
+240,Tosin Adarabioyo,Fulham,0.04,0.11,1617,20,ENG
+241,Pau Torres,Aston Villa,0.04,0.07,2463,29,ESP
+242,Alfie Doughty,Luton Town,0.04,0.06,2937,37,ENG
+243,Joachim Andersen,Crystal Palace,0.04,0.05,3416,38,DEN
+243,Mads Roerslev,Brentford,0.04,0.05,1987,34,DEN
+243,William Saliba,Arsenal,0.04,0.05,3420,38,FRA
+246,Chris Richards,Crystal Palace,0.04,0.04,2091,26,USA
+246,Lucas Digne,Aston Villa,0.04,0.04,2410,33,FRA
+248,Emerson,West Ham United,0.04,0.03,3142,36,ITA
+248,Jack Robinson,Sheffield United,0.04,0.03,2885,34,ENG
+248,Vinicius de Souza Costa,Sheffield United,0.04,0.03,2672,36,BRA
+251,Andre Brooks,Sheffield United,0.04,0.0,942,20,ENG
+251,Billy Gilmour,Brighton and Hove Albion,0.04,0.0,2125,30,SCO
+251,Joel Ward,Crystal Palace,0.04,0.0,1982,26,ENG
+251,Joseph Gomez,Liverpool,0.04,0.0,1779,32,ENG
+251,Nélson Semedo,Wolverhampton Wanderers,0.04,0.0,3092,36,POR
+256,Ben White,Arsenal,0.03,0.12,2995,37,ENG
+256,Mathias Jensen,Brentford,0.03,0.12,2217,32,DEN
+258,Thiago Silva,Chelsea,0.03,0.11,2527,31,BRA
+259,Josh Cullen,Burnley,0.03,0.09,2059,25,IRL
+260,Valentino Livramento,Newcastle United,0.03,0.07,1305,26,ENG
+261,Joel Veltman,Brighton and Hove Albion,0.03,0.06,1582,27,NED
+262,Oleksandr Zinchenko,Arsenal,0.03,0.05,1722,27,UKR
+262,Wataru Endo,Liverpool,0.03,0.05,1719,29,JPN
+264,Kieran Trippier,Newcastle United,0.03,0.04,2240,28,ENG
+265,Illia Zabarnyi,Bournemouth,0.03,0.03,3330,37,UKR
+266,Boubacar Traore,Wolverhampton Wanderers,0.03,0.0,804,24,MLI
+266,Hugo Bueno,Wolverhampton Wanderers,0.03,0.0,730,22,ESP
+266,Jonny Evans,Manchester United,0.03,0.0,1396,23,NIR
+266,Marc Guehi,Crystal Palace,0.03,0.0,2022,25,ENG
+266,Nathan Patterson,Everton,0.03,0.0,999,20,SCO
+266,Thomas Doyle,Wolverhampton Wanderers,0.03,0.0,1213,26,ENG
+272,Dara O'Shea,Burnley,0.02,0.09,2894,33,IRL
+273,Emerson Royal,Tottenham Hotspur,0.02,0.08,1155,22,BRA
+274,Teden Mengi,Luton Town,0.02,0.04,2470,30,ENG
+275,Moisés Caicedo,Chelsea,0.02,0.03,2872,35,ECU
+276,Antonee Robinson,Fulham,0.02,0.0,3270,37,USA
+276,Ashley Young,Everton,0.02,0.0,2288,31,ENG
+276,Auston Trusty,Sheffield United,0.02,0.0,2572,32,USA
+276,Ben Osborn,Sheffield United,0.02,0.0,1359,24,ENG
+276,Harrison Reed,Fulham,0.02,0.0,1324,27,ENG
+276,Igor,Brighton and Hove Albion,0.02,0.0,1636,24,BRA
+276,Lloyd Kelly,Bournemouth,0.02,0.0,1556,23,ENG
+276,Will Hughes,Crystal Palace,0.02,0.0,1899,30,ENG
+284,Ola Aina,Nottingham Forest,0.01,0.05,1700,22,NGA
+285,Calvin Bassey,Fulham,0.01,0.04,2301,29,NGA
+285,Charlie Taylor,Burnley,0.01,0.04,2332,28,ENG
+287,Aaron Wan-Bissaka,Manchester United,0.01,0.0,1781,22,ENG
+287,Amari'i Bell,Luton Town,0.01,0.0,1722,21,JAM
+287,Boubacar Kamara,Aston Villa,0.01,0.0,1659,20,FRA
+287,Issa Kaboré,Luton Town,0.01,0.0,1732,24,BFA
+287,Jorginho,Arsenal,0.01,0.0,919,24,ITA
+287,Kyle Walker,Manchester City,0.01,0.0,2767,32,ENG
+287,Lewis Cook,Bournemouth,0.01,0.0,2792,33,ENG
+287,Nathaniel Clyne,Crystal Palace,0.01,0.0,1337,19,ENG
+287,Sofyan Amrabat,Manchester United,0.01,0.0,931,21,MAR
+287,Vladimir Coufal,West Ham United,0.01,0.0,3136,36,CZE
+297,Adam Smith,Bournemouth,0.0,0.0,2156,28,ENG
+297,Max Aarons,Bournemouth,0.0,0.0,1234,20,ENG

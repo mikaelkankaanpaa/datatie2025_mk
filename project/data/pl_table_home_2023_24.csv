@@ -1,0 +1,21 @@
+idx,name,played,wins,draws,losses,scoresStr,goalConDiff,pts
+1,Liverpool,19,15,3,1,49-17,32,48
+2,Manchester City,19,14,5,0,51-16,35,47
+3,Arsenal,19,15,2,2,48-16,32,47
+4,Newcastle United,19,12,4,3,49-22,27,40
+5,Aston Villa,19,12,4,3,48-28,20,40
+6,Tottenham Hotspur,19,13,0,6,38-27,11,39
+7,Chelsea,19,11,4,4,44-26,18,37
+8,Manchester United,19,10,3,6,31-28,3,33
+9,Brighton & Hove Albion,19,8,6,5,30-27,3,30
+10,Fulham,19,9,2,8,31-24,7,29
+11,West Ham United,19,7,8,4,31-28,3,29
+12,Crystal Palace,19,8,4,7,37-26,11,28
+13,Everton,19,8,4,7,22-18,4,28
+14,AFC Bournemouth,19,7,6,6,27-28,-1,27
+15,Wolverhampton Wanderers,19,8,3,8,26-30,-4,27
+16,Brentford,19,5,7,7,29-34,-5,22
+17,Nottingham Forest,19,5,5,9,27-30,-3,20
+18,Luton Town,19,4,4,11,28-37,-9,16
+19,Burnley,19,2,4,13,19-43,-24,10
+20,Sheffield United,19,2,4,13,19-57,-38,10
