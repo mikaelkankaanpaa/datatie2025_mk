@@ -13,3 +13,6 @@ assignment/4.2-data-transformation/test_run.ipynb
 quickdemo/scrapy/.venv/
 quickdemo/.venv/
 
+
+*_local*
+quickdemo/colab/data*
