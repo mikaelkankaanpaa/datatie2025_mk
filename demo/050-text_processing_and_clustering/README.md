@@ -1,0 +1,1 @@
+This demo uses the [News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset) from Kaggle.

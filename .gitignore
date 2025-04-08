@@ -16,3 +16,4 @@ quickdemo/.venv/
 
 *_local*
 quickdemo/colab/data*
+demo/050-text_processing_and_clustering/data/categories.csv
